@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<title>Introducción CSS</title>
+</head>
+<link rel="stylesheet" type="text/css" href="estilo.css">
+<body background="file:///C:/Users/HP/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Captura%20de%20pantalla%202022-06-06%20092533.png">
+<div id="contenedor">
+
+<div id="seccion1">
+	
+	<a  href="file:///C:/Users/HP/Documents/Estudio%20Juan%202022/Tareas%20Juan%202022/Computación/Introducción%20CSS/index.html" target="file:///C:/Users/HP/Documents/Estudio%20Juan%202022/Tareas%20Juan%202022/Computación/Introducción%20CSS/index.html"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/PolloCampero_Logo.png/1200px-PolloCampero_Logo.png" width="250" height="100"></a>
+
+</div>
+<div id="seccion2">
+</div>
+<div id="seccion3">
+	
+</div>
+<div id="seccion4">
+	
+	<a href="https://gt.campero.com/menu/promociones" target="https://gt.campero.com/menu/promociones"><img src="file:///C:/Users/HP/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Captura%20de%20pantalla%202022-06-06%20091430.png"></a>
+</div>
+<div id="seccion5">
+	
+	<a href="https://gt.campero.com/menu/productos-nuevos" target="https://gt.campero.com/menu/productos-nuevos"><img src="file:///C:/Users/HP/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Captura%20de%20pantalla%202022-06-06%20091623.png"></a>
+</div>
+	<div id="seccion6">
+		<h1></h1>
+	</div>
+	<div id="seccion7">
+		<h1></h1>
+	
+</div>
+<div id="seccion8">
+	<a href="https://gt.campero.com/menu/pollo" target="https://gt.campero.com/menu/pollo"><img src="file:///C:/Users/HP/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Captura%20de%20pantalla%202022-06-06%20091749.png"></a>
+</div>
+<div id="seccion9">
+	<a href="https://gt.campero.com/menu/camperitos-y-alitas" target="https://gt.campero.com/menu/camperitos-y-alitas"><img src="file:///C:/Users/HP/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Captura%20de%20pantalla%202022-06-06%20092350.png"></a>
+</div>
+
+</body>
+</html>
