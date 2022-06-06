@@ -1,0 +1,75 @@
+*{ 
+margin: 0;
+padding: 0;
+background-attachment: fixed;
+ }
+
+ #seccion1{
+      width: 100% ;
+      height: 60px;
+      background: 	#FF8C00;
+      background-image: url(file:///C:/Users/HP/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Captura%20de%20pantalla%202022-06-06%20053230.png);
+ }
+
+ #seccion2{
+      width: 100% ;
+      height: 50px;
+      background: 	#F5DEB3;
+
+ }
+
+  #seccion3{
+      width: 80% ;
+      height: 370px;
+      background: #fff;
+      background-image:url(https://pc-gt-cdn.tillster.com/prod/Carousel/1Combazo1200x388.jpg_9131cb0c-2b02-462d-99c1-af0bfc66b5ad.jpg) ;
+     float: center;
+
+ }
+
+ #seccion4{
+      width: 40% ;
+      height: 200px;
+     float: left;
+
+ }
+
+ #seccion5{
+      width: 40% ;
+      height: 200px;
+     
+      float: right;
+
+ }
+
+   #seccion6{
+      width: 40% ;
+      height: 200px;
+
+      float: left;
+
+ }
+
+ #seccion7{
+      width: 40% ;
+      height: 200px;
+      
+      float: right;
+
+ }
+ #seccion8{
+      width: 40% ;
+      height: 200px;
+      
+      float: left;
+
+ }
+
+ #seccion9{
+      width: 40% ;
+      height: 200px;
+     
+      float: right;
+
+ }
+
